@@ -1,25 +1,11 @@
 ## News_sentiment_analyser
-- Download the required files.
-- Open command prompt and change directory to that folder.
-  - Use the following command:
-    ```bash
-    cd C:\Users\Rishitha\Documents\Python  # replace directory with your directory
-    ```
-- Create a virtual environment using the following command:
-    ```bash
-    py -m venv env_name
-    ```
-- Activate environment:
-    ```bash
-    env_name\scripts\activate.bat
-    ```
-- Install all the dependencies using requirements.txt file with following command:
-    ```bash
-    pip install -r requirements.txt
-    ```
-- Run the following command to run the website:
-    ```bash
-    python manage.py runserver
-    ```
-- Please note that the displayed data of performance and accuracy is not meaningful because we haven't tested on real examples more
+A web application that analyses the sentiment of news headlines and classifies them as positive, negative, or neutral.
+
+##Tech Stack
+- Python, Django
+- TensorFlow, Keras
+- Beautiful Soup, Vader, Snorkel
+- Matplotlib
+
+- Please note that the displayed data of performance and accuracy is not meaningful because I haven't tested on real examples more
 ![Project Diagram](/Images/Screenshot_15-6-2024_225654_127.0.0.1.jpeg)
