@@ -1,4 +1,4 @@
-## news_sentiment_analyser" 
+## News_sentiment_analyser
 - Download the required files.
 - Open command prompt and change directory to that folder.
   - Use the following command:
